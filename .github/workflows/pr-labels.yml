@@ -1,0 +1,16 @@
+# .github/workflows/pr-labels.yml
+# WARNING this file is managed by terraform and cannot be edited manually, see
+# swissgeo/infra-terraform//github/swissgeo/modules/github-workflows-semver/pr_labels.tf
+name: on-pr
+
+on:
+  pull_request:
+    types:
+      - labeled
+      - unlabeled
+      - opened
+      - reopened
+
+jobs:
+  pr-labels:
+    uses: swissgeo/.github/.github/workflows/pr-labels.yml@develop
