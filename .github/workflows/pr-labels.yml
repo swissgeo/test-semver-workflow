@@ -1,5 +1,5 @@
 # .github/workflows/pr-labels.yml
-# WARNING this file is managed by terraform and cannot be edited manually, see dummy change for tests
+# WARNING this file is managed by terraform and cannot be edited manually, see dummy change for tests I am dumb
 # swissgeo/infra-terraform//github/swissgeo/modules/github-workflows-semver/pr_labels.tf
 name: on-pr
 
