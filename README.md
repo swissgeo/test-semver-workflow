@@ -8,3 +8,5 @@ Template for service-semver public repository for the Swissgeo. I don' understan
 | main | ![Build Status](CODEBUILD_BADGE_URL) |
 
 Initial workflow test.
+
+test
