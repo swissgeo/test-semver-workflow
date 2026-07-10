@@ -1,6 +1,6 @@
 # template-service-semver-public
 
-Template for service-semver public repository for the Swissgeo.
+Template for service-semver public repository for the Swissgeo. I don' understand github
 
 | Branch | Status |
 |--------|-----------|
