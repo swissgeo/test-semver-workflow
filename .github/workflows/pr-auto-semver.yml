@@ -15,5 +15,3 @@ on:
 jobs:
   semver:
     uses: swissgeo/.github/.github/workflows/pr-auto-semver.yml@develop
-
-
