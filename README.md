@@ -23,3 +23,4 @@ test
 - test entry for refactoring category (2026-07-15T12:17:35Z)
 - test another breaking change
 - data
+- feature
