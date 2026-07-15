@@ -11,16 +11,16 @@ changelog:
     authors:
       - terraform-swissgeo
   categories:
-    - title: Breaking Changes 🛠
+    - title: :boom: Breaking Changes
       labels:
         - breaking-change
-    - title: New Features
+    - title: :sparkles: New Features
       labels:
         - feature
-    - title: Data Updates
+    - title: :card_index_dividers: Data Updates
       labels:
         - data-integration
-    - title: Bug Fixes
+    - title: :bug: Bug Fixes
       labels:
         - bug
     - title: Other Changes
