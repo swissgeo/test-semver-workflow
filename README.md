@@ -17,3 +17,4 @@ test
 
 - test entry for feature category (2026-07-15T12:14:49Z)
 - test entry for bug category (2026-07-15T12:16:59Z)
+- test entry for data-integration category (2026-07-15T12:17:08Z)
