@@ -19,3 +19,4 @@ test
 - test entry for bug category (2026-07-15T12:16:59Z)
 - test entry for data-integration category (2026-07-15T12:17:08Z)
 - test entry for breaking-change category (2026-07-15T12:17:17Z)
+- test entry for dependencies category (2026-07-15T12:17:25Z)
