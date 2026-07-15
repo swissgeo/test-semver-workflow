@@ -13,7 +13,7 @@ on:
       - unlabeled
 
 jobs:
-  pr-semver:
+  semver:
     uses: swissgeo/.github/.github/workflows/pr-auto-semver.yml@develop
 
 
