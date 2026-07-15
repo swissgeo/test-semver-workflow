@@ -1,0 +1,28 @@
+# .github/release.yml
+# WARNING this file is managed by terraform and cannot be edited manually, see
+# swissgeo/infra-terraform//github/swissgeo/modules/github-auto-release-notes-config/main.tf
+
+changelog:
+  exclude:
+    labels:
+      - skip-release-note
+      - refactoring
+      - new-release
+    authors:
+      - terraform-swissgeo
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - breaking-change
+    - title: New Features
+      labels:
+        - feature
+    - title: Data Updates
+      labels:
+        - data-integration
+    - title: Bug Fixes
+      labels:
+        - bug
+    - title: Other Changes
+      labels:
+        - "*"
