@@ -22,7 +22,6 @@ test
 - test entry for dependencies category (2026-07-15T12:17:25Z)
 - test entry for refactoring category (2026-07-15T12:17:35Z)
 - test another breaking change
-- data
 - feature
 - breaking
 - data
