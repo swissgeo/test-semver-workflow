@@ -27,3 +27,4 @@ test
 - data
 - breaking
 - feat
+- deps
